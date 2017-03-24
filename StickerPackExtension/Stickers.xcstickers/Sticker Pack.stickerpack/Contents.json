@@ -1,0 +1,62 @@
+{
+  "stickers" : [
+    {
+      "filename" : "amy.sticker"
+    },
+    {
+      "filename" : "bender.sticker"
+    },
+    {
+      "filename" : "calculon.sticker"
+    },
+    {
+      "filename" : "clamps.sticker"
+    },
+    {
+      "filename" : "donbot.sticker"
+    },
+    {
+      "filename" : "fry.sticker"
+    },
+    {
+      "filename" : "hermes.sticker"
+    },
+    {
+      "filename" : "hypnotoad.sticker"
+    },
+    {
+      "filename" : "kif.sticker"
+    },
+    {
+      "filename" : "leela.sticker"
+    },
+    {
+      "filename" : "lrrr.sticker"
+    },
+    {
+      "filename" : "mom.sticker"
+    },
+    {
+      "filename" : "nibbler.sticker"
+    },
+    {
+      "filename" : "professor.sticker"
+    },
+    {
+      "filename" : "scruffy.sticker"
+    },
+    {
+      "filename" : "zapp.sticker"
+    },
+    {
+      "filename" : "zoidberg.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
